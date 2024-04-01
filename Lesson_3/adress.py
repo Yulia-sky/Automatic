@@ -7,17 +7,17 @@ class Address:
           self.house = house
           self.apartment = apartment
 
-     def sayIndex(self):
+     def say_index(self):
           print(self.index)
 
-     def sayCity(self):
+     def say_city(self):
           print(self.city)
 
-     def sayStreet(self):
+     def say_street(self):
           print(self.street)
 
-     def sayHouse(self):
+     def say_house(self):
           print(self.House)
 
-     def sayApartment(self):
-          print(self.Apartment)
+     def say_apartment(self):
+          print(self.apartment)

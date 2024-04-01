@@ -5,17 +5,17 @@ class Mailing:
         self.cost = cost
         self.track = track
 
-    def sayTrack(self):
+    def say_track(self):
         print(self.track)
 
-    def sayTo_address(self):
+    def say_to_address(self):
         print(self.to_address)
 
-    def sayFrom_address(self):
+    def say_from_address(self):
         print(self.from_address)
 
-    def sayCost(self):
+    def say_cost(self):
         print(self.cost)
 
-    def sayTrack(self):
+    def say_track(self):
         print(self.track)
